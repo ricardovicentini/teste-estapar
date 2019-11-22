@@ -1,0 +1,8 @@
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\bin\Debug\netcoreapp3.0\EstaparServices.deps.json
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\bin\Debug\netcoreapp3.0\EstaparServices.dll
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\obj\Debug\netcoreapp3.0\EstaparServices.csprojAssemblyReference.cache
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\obj\Debug\netcoreapp3.0\EstaparServices.AssemblyInfoInputs.cache
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\obj\Debug\netcoreapp3.0\EstaparServices.AssemblyInfo.cs
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\bin\Debug\netcoreapp3.0\EstaparServices.pdb
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\obj\Debug\netcoreapp3.0\EstaparServices.dll
+E:\Docs\estudo\csharp\TesteEstapar\EstaparServices\obj\Debug\netcoreapp3.0\EstaparServices.pdb
