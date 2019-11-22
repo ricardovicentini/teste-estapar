@@ -2,7 +2,7 @@
 *Neste repositório constam todos os fontes gerados para realizar o teste da Estapar*  
 
 > Os testes foram feitos com IISExpress e o banco de dados escolhido foi SqlServer utilizando EF core com provider para InMemmoryDatabase.  
-Criei uma Controller inicial para fazer a "Mokagem" de dados, assim o banco nao começa zerado!
+Criei uma Controller inicial para fazer a "Mockagem" de dados, assim o banco nao começa zerado!
 
 ### Modelagem
 ![Modelagem](https://github.com/ricardovicentini/teste-estapar/blob/master/imagens/Diagram%20Estapar.png)
