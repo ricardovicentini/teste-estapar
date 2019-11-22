@@ -17,7 +17,7 @@ E com isso então foram criados Models, Views e Controlers para geração do CRU
 * CLEAN CODE / SOLID: O código foi escrito aplicando-se os principios de: 
   > Responsabilidade única dos métodos;  
   > Pincípio de Aberto / Fechado: As models foram escritas de forma que não podem ser alteradas de fora, para garantir este principio;   
-  > Princípio de Substituição de Liskov: (não foi aplicado pois não utilizei herança); 
+  > Princípio de Substituição de Liskov: (não foi aplicado pois não utilizei herança);   
   > Interface segragation: (não apliquei 100% mas temos duas interfaces que facilitaram bem o desnevolvimento) *ICRUD* e *IModel*;  
   > Dependencia por injeçao: Foi utilizado o injetor padrão do netcore que é ótimo e muito fácil de usar;  
 ## Tetes
