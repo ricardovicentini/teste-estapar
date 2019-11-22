@@ -1,7 +1,7 @@
 ## Teste da Estapar em Aspnet MVC core 3.0
 *Neste repositório constam todos os fontes gerados para realizar o teste da Estapar*  
 
-> Os testes foram feitos com IISExpres e o banco de dados escolhido foi SqlServer utilizando EF core com provider para InMemmoryDatabase
+> Os testes foram feitos com IISExpress e o banco de dados escolhido foi SqlServer utilizando EF core com provider para InMemmoryDatabase
 
 ### Modelagem
 ![Modelagem](https://github.com/ricardovicentini/teste-estapar/blob/master/imagens/Diagram%20Estapar.png)
