@@ -7,7 +7,7 @@ Criei uma Controller inicial para fazer a "Mockagem" de dados, assim o banco nao
 ### Modelagem
 ![Modelagem](https://github.com/ricardovicentini/teste-estapar/blob/master/imagens/Diagram%20Estapar.png)
 
-Semanticamente com essa modelagem podemos dizer que uma instância de manobrista manobra uma instância de caro.  
+Semanticamente com essa modelagem podemos dizer que uma instância de manobrista manobra uma instância de carro.  
 
 E com isso então foram criados Models, Views e Controlers para geração do CRUD de acordo com o solicitado.
 
