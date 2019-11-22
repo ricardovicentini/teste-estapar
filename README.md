@@ -20,7 +20,7 @@ E com isso então foram criados Models, Views e Controlers para geração do CRU
   > Princípio de Substituição de Liskov: (não foi aplicado pois não utilizei herança);   
   > Interface segragation: (não apliquei 100% mas temos duas interfaces que facilitaram bem o desnevolvimento) *ICRUD* e *IModel*;  
   > Dependencia por injeçao: Foi utilizado o injetor padrão do netcore que é ótimo e muito fácil de usar;  
-## Tetes
+## Testes
 * Não foram feitos testes atomatizados devido a simplicidade da tarefa e a urgência no tempo, mas o código está bem desacoplado e fácil de testar
 
 
