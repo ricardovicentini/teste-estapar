@@ -12,4 +12,14 @@ E com isso então foram criados Models, Views e Controlers para geração do CRU
 
 ## Tecnicas Aplicadas
 * Models ricas: Escolhi trabalhar com models ricas para emular um design baseado no DDD. *Como é apenas um teste entendi que poderia ter a entidade e a model como um objeto unico* E atendeu bem!  
-* Views 100% RAZOR com validações utilizando o Framework: *FluentValidation* https://fluentvalidation.net/, que excelentemente transpila as validações para o javiscript sem sujar as models e ainda é possivel utilizar a mesma validação nas camadas Server
+* Views 100% RAZOR com validações utilizando o Framework: *FluentValidation* https://fluentvalidation.net/, que excelentemente transpila as validações para o javiscript sem sujar as models e ainda é possivel utilizar a mesma validação nas camadas Server. E ainda de bonos as validações são escritas de forma declarativa (Linq Like), o que garante rapidez na criação das validações e facilidade para entendê-las
+* CLEAN CODE / SOLID: O código foi escrito aplicando-se os principios de: 
+  > Responsabilidade única dos métodos
+  > Pincípio de Aberto / Fechado: As models foram escritas de forma que não podem ser alteradas de fora, para garantir este principio 
+  > Princípio de Substituição de Liskov: (não foi aplicado pois não utilizei herança) 
+  > Interface segragation: (não apliquei 100% mas temos duas interfaces que facilitaram bem o desnevolvimento) *ICRUD* e *IModel*
+  > Dependencia por injeçao: Foi utilizado o injetor padrão do netcore que é ótimo e muito fácil de usar
+  
+  
+
+
